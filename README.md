@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{JacobReidWD}/count.svg)
+
 
 
 # My name is Jacob and I'm currently... 
