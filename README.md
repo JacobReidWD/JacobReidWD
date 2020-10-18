@@ -1,5 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{JacobReidWD}/count.svg)
-
+![](https://komarev.com/ghpvc/?username=jacobreidwd)
 
 # My name is Jacob and I'm currently... 
 **A junior in highschool.** 🎒
