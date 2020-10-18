@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jacobreidwd)
+![](https://komarev.com/ghpvc/?username=jacobreidwd&color=ff69b4)
 
 # My name is Jacob and I'm currently... 
 **A junior in highschool.** 🎒
